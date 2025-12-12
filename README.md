@@ -2,7 +2,7 @@
 
 **The classic paddle-and-ball arcade game, rebuilt inside the Windows console using pure C++.** 🎯  
 
-![C++](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge)
+![C++](https://img.shields.io/badge/Language-C/C++-00599C?style=for-the-badge)
 ![Author](https://img.shields.io/badge/Author-Talha%20Pasha-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-red?style=for-the-badge)
 
