@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Brick-Breaker.vcxproj" Id="c5b5655a-abbe-4b7b-bf19-e88daf8e6c2f" />
+</Solution>
