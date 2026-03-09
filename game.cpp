@@ -7,19 +7,16 @@ int scores = 0;
 bool allbricks[6][14];
 bool easy = false;
 bool hard = false;
-
 void boundary()
 {
     myRect(40, 75, 840, 600, 255, 255, 255, 255, 255, 255);
 }
-
 void bricks()
 {
     int brick_width = 50;
     int brick_height = 20;
     int start_x = 60;
     int start_y = 85;
-
     for (int row = 0; row < 6; row++)
     {
         for (int col = 0; col < 14; col++)
